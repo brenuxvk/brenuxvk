@@ -17,7 +17,7 @@ Membro ativo em comunidades de segurança, estudando tanto Blue Team 🛡️ qua
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,,github,linux,bash,mysql,kali,wireshark,redhat" />
+    <img src="https://skillicons.dev/icons?i=python,github,linux,bash,mysql,kali,wireshark,redhat" />
   </a>
 </p>
 
