@@ -18,6 +18,9 @@ Membro ativo em comunidades de segurança, estudando tanto Blue Team 🛡️ qua
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,git,github,linux,bash,vscode,kali,wireshark" />
+    <img src="https://img.shields.io/badge/Red_Team-D92A2A?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Red Team"/>
+  <img src="https://img.shields.io/badge/Blue_Team-0077B5?style=for-the-badge&logo=linuxsecurity&logoColor=white" alt="Blue Team"/>
+  <img src="https://img.shields.io/badge/Prisma_Cloud-151A26?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Prisma Cloud"/>
   </a>
 </p>
 
