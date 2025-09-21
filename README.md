@@ -1,8 +1,9 @@
 ### 👋 Olá! Eu sou o Breno
 
 <p align="left">
-  Um estudante e entusiasta de Cibersegurança apaixonado por transformar teoria em código. Atualmente focado em desenvolver ferramentas de segurança em Python e explorar os mundos de Red Team e Blue Team.
-</p>
+Estudante de Redes de Computadores explorando o universo da Cibersegurança.
+
+Membro ativo em comunidades de segurança, estudando tanto Blue Team 🛡️ quanto Red Team ⚔️. Meu projeto de TCC envolve a criação de uma dashboard para clientes monitorarem dados de sensores de poluição em tempo real.
 
 <p align="left">
   <a href="www.linkedin.com/in/lucas-breno-da-cruz-santos-47505a347/" target="_blank">
