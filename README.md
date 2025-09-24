@@ -3,7 +3,7 @@
 <p align="left">
 Estudante de Redes de Computadores explorando o universo da Cibersegurança.
 
-Membro ativo em comunidades de segurança, estudando tanto Blue Team 🛡️ quanto Red Team ⚔️. Meu projeto de TCC envolve a criação de uma dashboard para clientes monitorarem dados de sensores de poluição em tempo real.
+Membro ativo em comunidades de segurança, estudando tanto Blue Team 🛡️ quanto Red Team ⚔️.
 
 <p align="left">
   <a href="www.linkedin.com/in/lucas-breno-da-cruz-santos-47505a347/" target="_blank">
